@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Tu/e Campus"
+description              : "Gebouw 19, Flux,5600 MB Eindhoven"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "TU/e Campus, Eindhoven, Netherlands"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Gebouw 19, Flux, 5600 MB Eindhoven"
   location         : "Somewhere"
   email            :
   links:
@@ -161,6 +161,17 @@ footer:
       # url:
   since: "2013"
 
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /home/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Application"
+    url: /application/
+  - title: "Contact"
+    url: /contact/
 
 # Reading Files
 include:
@@ -325,3 +336,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # Set homepage to /home/
+  - scope:
+      path: ""
+      type: ""
+    values:
+      permalink: /home/
+      layout: single
+
+
