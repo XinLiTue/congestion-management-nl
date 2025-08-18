@@ -113,10 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "TU/e Campus, Eindhoven, Netherlands"
+  name             : "Date to be confirmed"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Conference room to be confirmed"
-  location         : "Somewhere"
+  location: |
+    TU/e Campus  
+    <img src="/congestion-management-nl/assets/images/ee-nl-logo.png" alt="EE-NL Logo" style="max-width:150px; display:block; margin:10px 0;">
+    <img src="/congestion-management-nl/assets/images/tue-logo.png" alt="TUe Logo" style="max-width:150px; display:block; margin:10px 0;">
   email            :
   links:
     - label: "Email"
@@ -343,5 +346,8 @@ defaults:
     values:
       permalink: /home/
       layout: single
+
+fontawesome:
+  use: true
 
 

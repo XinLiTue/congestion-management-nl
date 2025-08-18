@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Home"
+title: "Welcome"
 permalink: /home/
 author_profile: true
 ---
 
 # Workshop on Congestion Management in Netherlands  
-## Challenges, Lessons and Future Expectations
+## -Challenges, Lessons and Future Expectations
 
 ---
 
@@ -35,14 +35,29 @@ Registration will be open soon. Please visit our <a href="/registration">registr
 </div>
 
 ---
+### <span style="color:#0077b6;">Organizing Group</span>
 
+<div style="font-size:1.1em;">
+The workshop is organized by members from the Electrical Energy Systems (EES) group at TU/e.<br><br>
+<b>Xin Li</b><br>
+PhD Researcher<br>
+<a href="mailto:x.li7@tue.nl">x.li7@tue.nl</a><br><br>
+<b>Dr. Lingkang Jin</b><br>
+Postdoctoral Researcher<br>
+<a href="mailto:l.jin@tue.nl">l.jin@tue.nl</a><br><br>
+<b>Dr. Nikolaos G. Paterakis</b><br>
+Assistant Professor<br>
+<a href="mailto:N.Paterakis@tue.nl">N.Paterakis@tue.nl</a>
+</div>
 ---
 
 ### <span style="color:#0077b6;">Contact</span>
 
 <div style="font-size:1.1em;">
-For inquiries, please contact the workshop organizers at <a href="mailto:x.li7@tue.nl">x.li7@tue.nl</a>.
+For inquiries, please contact the workshop organizers at <a href="mailto:x.li7@tue.nl">x.li7@tue.nl</a> .
 </div>
+
+---
 
 ### <span style="color:#0077b6;">Sponsors</span>
 
@@ -51,7 +66,7 @@ This event is supported by <b>EE-NL (Dutch Electrical Engineering Council)</b>, 
 </div>
 
 <div style="display: flex; gap: 30px; align-items: center; margin-top: 10px;">
-  <img src="/assets/images/ee-nl-logo.png" alt="EE-NL Logo" style="max-height:86px; height:auto;">
-  <img src="/assets/images/tue-logo.png" alt="TUe Logo" style="max-height:76px; height:auto;">
+  <img src="/congestion-management-nl/assets/images/ee-nl-logo.png" alt="EE-NL Logo" style="max-height:86px; height:auto;">
+  <img src="/congestion-management-nl/assets/images/tue-logo.png" alt="TUe Logo" style="max-height:76px; height:auto;">
 </div>
 

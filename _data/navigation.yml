@@ -2,9 +2,13 @@
 main:
   - title: "Home"
     url: /home/
+    # icon: "fas fa-broadcast-tower"  #tower
   - title: "Program"
-    url: /schedule/
+    url: /program/
+    # icon: "fas fa-calendar-alt"   # calendar
   - title: "Register"
     url: /application/
+    # icon: "fas fa-edit"           # registration form
   - title: "Contact"
     url: /contact/
+    # icon: "fas fa-envelope"       # contact

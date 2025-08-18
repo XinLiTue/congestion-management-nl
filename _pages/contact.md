@@ -8,8 +8,6 @@ permalink: /contact/
 
 If you have any questions or need further information, please reach out:
 
-- **Email:** [workshop@ee-nl.org](mailto:workshop@ee-nl.org)
-- **Phone:** +31 123 456 789
+- **Email:** [x.li7@tue.nl](mailto:x.li7@tue.nl)
 - **Address:** TU/e, Electrical Engineering Department, Eindhoven, Netherlands
 
-We look forward to
