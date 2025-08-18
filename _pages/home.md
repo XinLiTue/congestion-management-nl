@@ -62,7 +62,7 @@ For inquiries, please contact the workshop organizers at <a href="mailto:x.li7@t
 ### <span style="color:#0077b6;">Sponsors</span>
 
 <div style="font-size:1.1em;">
-This event is supported by <b>EE-NL (Dutch Electrical Engineering Council)</b>, and the <b>EES (Electrical Energy Systems)</b>.
+This event is supported by <b><a href="https://ee-nl.nl/" target="_blank" style="color:inherit; text-decoration:underline;">EE-NL </a></b> (Dutch Electrical Engineering Council), and the TU/e <b><a href="https://www.tue.nl/en/research/research-groups/electrical-energy-systems/" target="_blank" style="color:inherit; text-decoration:underline;">EES</a></b> (Electrical Energy Systems) group.
 </div>
 
 <div style="display: flex; gap: 30px; align-items: center; margin-top: 10px;">
