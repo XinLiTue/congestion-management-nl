@@ -31,7 +31,7 @@ As grid congestion becomes a critical issue, congestion management stands out as
 ### <span style="color:#0077b6;">Registration</span>
 
 <div style="font-size:1.1em;">
-Registration will be open soon. Please visit our <a href="/registration">registration page</a> for more information on fees and procedures. 
+Registration is free and will be open soon. Please visit our <a href="/registration">registration page</a> for more information on fees and procedures. 
 </div>
 
 ---

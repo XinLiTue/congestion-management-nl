@@ -9,5 +9,5 @@ permalink: /contact/
 If you have any questions or need further information, please reach out:
 
 - **Email:** [x.li7@tue.nl](mailto:x.li7@tue.nl)
-- **Address:** TU/e, Electrical Engineering Department, Eindhoven, Netherlands
+
 
